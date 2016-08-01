@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HomeInfo</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>飘雪效果</string>
+			<key>detail</key>
+			<string></string>
+			<key>typeID</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>动态时间</string>
+			<key>detail</key>
+			<string>背景随时间变化而变化</string>
+			<key>typeID</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>瀑布流+图片缩放</string>
+			<key>detail</key>
+			<string></string>
+			<key>typeID</key>
+			<string>2</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>毛玻璃效果</string>
+			<key>detail</key>
+			<string></string>
+			<key>typeID</key>
+			<string>3</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>UITableView 样式1</string>
+			<key>detail</key>
+			<string>视差滚动</string>
+			<key>typeID</key>
+			<string>4</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>查看gif图</string>
+			<key>detail</key>
+			<string></string>
+			<key>typeID</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Cover Flow视图</string>
+			<key>detail</key>
+			<string>以及其他的展示样式</string>
+			<key>typeID</key>
+			<string>6</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>无线循环滑动视图</string>
+			<key>detail</key>
+			<string></string>
+			<key>typeID</key>
+			<string>7</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>T型列表菜单</string>
+			<key>detail</key>
+			<string>可展开收缩的菜单</string>
+			<key>typeID</key>
+			<string>8</string>
+		</dict>
+	</array>
+</dict>
+</plist>
